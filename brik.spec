@@ -1,5 +1,5 @@
 Summary:	Checks archive integrity
-Summary(pl):	Sparwdza integralno¶æ archiwum
+Summary(pl):	Program do sprawdzania integralno¶ci archiwum
 Name:		brik
 Version:	1.0
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Checks archive integrity. Quite old program, but sometimes used.
 
 %description -l pl
-Sparwdza integralno¶æ archiwum. Ca³kiem stary program, jednak wci±¿
-czasem u¿ywany.
+Program do sprawdzanie integralno¶ci archiwum. Ca³kiem stary program,
+jednak wci±¿ czasem u¿ywany.
 
 %prep
 %setup -q
