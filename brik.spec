@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Checks archive integrity. Quite old program, but sometimes used.
 
 %description -l pl
-Program do sprawdzanie integralno¶ci archiwum. Ca³kiem stary program,
+Program do sprawdzania integralno¶ci archiwum. Ca³kiem stary program,
 jednak wci±¿ czasem u¿ywany.
 
 %prep
