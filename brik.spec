@@ -1,5 +1,5 @@
 Summary:	Checks archive integrity
-Summary(pl.UTF-8):   Program do sprawdzania integralności archiwum
+Summary(pl.UTF-8):	Program do sprawdzania integralności archiwum
 Name:		brik
 Version:	1.0
 Release:	1
